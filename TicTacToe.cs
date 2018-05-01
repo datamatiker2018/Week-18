@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Week14Repetition.Iteration
+namespace Week14Repetition.Practice
 {
     class Program
     {

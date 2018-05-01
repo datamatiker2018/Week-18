@@ -1,6 +1,6 @@
 using System;
 
-namespace Week14Repetition.Iteration
+namespace Week14Repetition.Practice
 {
     class Program
     {

@@ -6,7 +6,7 @@ namespace Week14Repetition.Arrays
     {
         public static void Main()
         {
-            int[] array = new int[7] { 1, 1, 2, 3, 5, 8, 13 };
+            int[] array = new int[7] { 1, 1, 2, 3, 5 };
     
             //PrintArray(array, true, "ChangeA");
             ChangeA(array);
@@ -36,14 +36,14 @@ namespace Week14Repetition.Arrays
     
         public static void ChangeC(int[] array)
         {
-            array[1] = array[6];
+            array[0] = array[2];
         }
         
         public static void ChangeD(int[] array)
         {
-            array = new int[7];
+            array = new int[5];
         }
-    
+        
         // Ignore this method
         public static void PrintArray(int[] array, bool before, string method)
         {

@@ -2,9 +2,9 @@ using System;
 
 namespace Week14Repetition.Arrays
 {
-    public class Program
+    class Program
     {
-        public static void Main()
+        static void Main()
         {
             int[] array = new int[7] { 1, 1, 2, 3, 5 };
     

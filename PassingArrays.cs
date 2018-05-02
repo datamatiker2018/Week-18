@@ -6,7 +6,7 @@ namespace Week14Repetition.Arrays
     {
         static void Main()
         {
-            int[] array = new int[7] { 1, 1, 2, 3, 5 };
+            int[] array = new int[] { 1, 1, 2, 3, 5 };
     
             //PrintArray(array, true, "ChangeA");
             ChangeA(array);
